@@ -3,7 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <><h1>Welcome To sample testing</h1><h2>Second main COntribution </h2></>
+    <><h1>Welcome To sample testing</h1>
+    <h2>Second main Contribution </h2></>
   );
 }
 
